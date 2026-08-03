@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: >
+  If you use this software in your research, please cite the
+  accompanying manuscript. Once the paper is officially published,
+  please use the publisher's official BibTeX citation.
+
+title: "Benchmarking Arabic Transformer-Based Language Model Embeddings for Document Clustering: A Comparative Study"
+
+authors:
+  - family-names: Al Mahmoud
+    given-names: Rana
+
+type: software
+
+repository-code: https://github.com/ranahusniGit/LLM-textClusteringAlgorithms.git
+
+license: OTHER
+
+abstract: >
+  This repository contains the complete implementation used for the
+  comparative evaluation of Arabic transformer-based embedding models
+  for unsupervised document clustering.
+
+keywords:
+  - Arabic NLP
+  - Document Clustering
+  - Transformer Models
+  - Large Language Models
+  - Text Mining
+  - Machine Learning
+
+preferred-citation:
+  type: article
+  title: "Benchmarking Arabic Transformer-Based Language Model Embeddings for Document Clustering: A Comparative Study"
+  authors:
+    - family-names: Al Mahmoud
+      given-names: Rana
+  status: manuscript
+  note: >
+    Please cite the official published paper using the publisher's
+    BibTeX entry once it becomes available.
